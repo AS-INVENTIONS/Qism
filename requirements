@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+librosa
+transformers
+torch
+nest-asyncio
+pydub
+google-generativeai
+requests
